@@ -9,3 +9,5 @@ All data was analyzed in under two hours using Python (pandas, matplotlib.basema
 ![appointee_map](https://user-images.githubusercontent.com/32338006/57577527-d9ec4080-742d-11e9-95cc-d9dfa06e9835.png)
 
 Approximately 1.18% of last positions of appointees were held in Fortune 500 companies.
+
+Team: McKaulay Kolakowski and Patrick Old
